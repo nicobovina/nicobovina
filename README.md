@@ -1,6 +1,6 @@
 I'm a psychologist who programs. A couple of years ago I studied computer science in ARG.<br>
 I <b>love algorithms</b>. They simplify our lives (at least they try).<br>
-Now I'm improving my skills in JavaScript, but learning data science is on my bucket list.<br><br>
+Now I'm improving my JavaScript skills, but learning data science is on my bucket list.<br><br>
 My <i>values</i>: <b>learn</b> & <b>live</b>.
 
 
